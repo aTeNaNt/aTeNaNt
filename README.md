@@ -1,6 +1,5 @@
 ## Git Super Beginner
 
-![badge](https://img.shields.io/badge/PANZER)
 
 ### 😺 First Profile
 Here are some ideas to get you started:
